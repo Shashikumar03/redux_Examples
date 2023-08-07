@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  width: 100%;
+}
+.quantity_minus{
+  size: 5cm;
+  height: 100vh;
+}
